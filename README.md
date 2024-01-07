@@ -1,6 +1,6 @@
 # Emloyee Attrition ML
 
-**An organization's attrition rate is a statistic that measures the pace at which workers leave, either willingly or unwillingly. For HR teams to assess retention efforts and comprehend organizational dynamics, it is a crucial indicator of the rate of employee turnover, given as a percentage.**
+***An organization's attrition rate is a statistic that measures the pace at which workers leave, either willingly or unwillingly. For HR teams to assess retention efforts and comprehend organizational dynamics, it is a crucial indicator of the rate of employee turnover, given as a percentage.***
 
 This ML Project determines whether a emloyee will be retain by the organization or not based on some creteria.
 
