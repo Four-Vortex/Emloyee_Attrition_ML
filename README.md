@@ -11,7 +11,8 @@ This ML Project determines whether a emloyee will be retain by the organization 
      *{'number_project':[number_project],'average_montly_hours':[average_montly_hours],'time_spend_company':[time_spend_company]}*
    
      *Where:
+   
        a. number_project - Number of project done by the emloyee
        b. average_monthly_hours - Hours spend by the emloyee daily on his/her working days.
        c. time_spend_comany - Number of years the emloyee is working on in the Organization.*
-3. Use the Dataframe and feed in the model to get the result.
+4. Use the Dataframe and feed in the model to get the result.
