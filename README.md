@@ -7,7 +7,9 @@ This ML Project determines whether a emloyee will be retain by the organization 
 ## Process to Use the Model
 1. Import the model (model.h5).
 2. Create a DataFrame as follows:
+   
      *{'number_project':[number_project],'average_montly_hours':[average_montly_hours],'time_spend_company':[time_spend_company]}*
+   
      *Where:
        a. number_project - Number of project done by the emloyee
        b. average_monthly_hours - Hours spend by the emloyee daily on his/her working days.
